@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Quicksand-Light;
+	src:url(Quicksand-Light.otf);
+}
+
+h1 {
+	font-family: Quicksand-Light;
+}
+header {
+	
+	font-family: Quicksand-Light;
+}
